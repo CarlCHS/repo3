@@ -22,5 +22,6 @@ public class test {
         for (int i1 = 0; i1 < 5; i1++) {
             System.out.println("循环体");
         }
+        System.out.println("222333");
     }
 }
