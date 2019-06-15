@@ -23,5 +23,6 @@ public class test {
             System.out.println("循环体");
         }
         System.out.println(21323);
+        System.out.println("7894");
     }
 }
