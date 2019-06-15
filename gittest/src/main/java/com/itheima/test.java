@@ -18,5 +18,9 @@ public class test {
 
         System.out.println("拉格朗日中值定理");
         System.out.println("浪里个浪");
+
+        for (int i1 = 0; i1 < 5; i1++) {
+            System.out.println("循环体");
+        }
     }
 }
