@@ -16,6 +16,7 @@ public class test {
         System.out.println("这是新的内容");
         System.out.println("这是新的内容");
 
-        System.out.println("l拉格朗日中值定理");
+        System.out.println("拉格朗日中值定理");
+        System.out.println("浪里个浪");
     }
 }
