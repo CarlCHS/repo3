@@ -1,0 +1,11 @@
+package main.java.com.itheima;
+
+public class test {
+    public static void main(String[] args) {
+        System.out.println("飞流直下三千尺");
+        System.out.println("飞流直下三千尺");
+        System.out.println("飞流直下三千尺");
+        System.out.println("飞流直下三千尺");
+        System.out.println("飞流直下三千尺");
+    }
+}
